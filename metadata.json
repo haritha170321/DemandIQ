@@ -1,0 +1,6 @@
+{
+  "name": "DemandIQ",
+  "description": "AI-Powered Demand Forecasting and Smart Inventory Management Platform",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
